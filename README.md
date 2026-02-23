@@ -1,5 +1,12 @@
 # compliance-agent-memory
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/compliance-agent-memory/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/compliance-agent-memory/actions)
+![License](https://img.shields.io/github/license/yksanjo/compliance-agent-memory)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/compliance-agent-memory)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/compliance-agent-memory)
+
 ## Detailed Description
 
 compliance-agent-memory is maintained as an industry-grade software project with production-ready engineering practices.  
